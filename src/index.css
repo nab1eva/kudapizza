@@ -1,0 +1,109 @@
+.top {
+  top: 40px !important;
+}
+
+.card-img-top{
+    height: 100%;
+}
+
+.form {
+  border: none !important;
+  border-color: none !important;
+  outline: none !important;
+}
+
+.small-text {
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 18px !important;
+  border: none;
+  background-color: transparent;
+}
+
+.grid2 {
+  grid-template-columns: auto auto;
+  justify-content: space-between !important;
+  gap: 20px;
+}
+
+.button {
+  border-radius: 4px;
+  border: none !important;
+  background: #ff7010 !important;
+  padding: 8px 16px;
+  color: white !important;
+}
+
+.btn {
+  border: none !important;
+  background: #ff7010 !important;
+  padding: 13px 32px 13px 32px !important;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.card-name {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.card-desc {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: right;
+  color: #ff7010;
+}
+
+.card {
+  border-radius: 12px;
+  border: 1px solid grey;
+  padding: 0 0 20px 0;
+}
+
+.logo{
+    padding-bottom: 50%;
+}
+.footer-logo {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  margin-bottom: 0px;
+}
+
+.list-title {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+* {
+  list-style-type: none;
+}
+
+ul{
+    padding-left: 0px !important;
+}
+
+li{
+    padding-bottom: 15px;
+}
